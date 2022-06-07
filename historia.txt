@@ -1,0 +1,4 @@
+Mi nombre es Wilson y tengo 32 años de edad.
+-estoy aprendiendo el control de versiones de Git
+
+-Quiero ser el mejor desarrollador front-end
