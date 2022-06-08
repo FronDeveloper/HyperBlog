@@ -3,3 +3,5 @@ Mi nombre es Wilson y tengo 32 años de edad.
 
 -Quiero ser el mejor desarrollador front-end del mundo,
 soy apasionado por las tecnologias
+
+-Me siento algo frustrado, y a veces quisiera ser indiferente y que todo me de igual y que no me afecte
